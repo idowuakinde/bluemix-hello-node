@@ -1,3 +1,7 @@
+This line is just to test the CF (Cloud Foundry) 'cf push' command, after editing this readme.md file.
+
+>>>>>
+
 bluemix-hello-node
 ================================================================================
 
